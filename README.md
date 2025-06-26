@@ -34,7 +34,7 @@ The data was sourced from YouTube tutorials, but all visualizations, calculation
 1.Overview
 ![Overview Dashboard]((https://github.com/Ayush-shaw27/Amazon_powerbi/blob/main/Overview.png))
 
-![Product View](https://github.com/your-username/your-repo-name/blob/main/screenshots/product-view.png?raw=true)
+![Product View]([https://github.com/your-username/your-repo-name/blob/main/screenshots/product-view.png?raw=true](https://github.com/Ayush-shaw27/Amazon_powerbi/blob/main/Powertip.png))
 
 ![Power Tip](https://github.com/your-username/your-repo-name/blob/main/screenshots/powertip.png?raw=true)
 
