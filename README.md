@@ -11,11 +11,15 @@ The primary goal of the project is to practice and showcase the bussiness analyt
 5. 🛠 Tech Stack
 
 List of key technologies used to build the dasshboard
-a] 📊 Power BI Desktop – Main data visualization platform used for report creation
-b] 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data
-c] 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic
-d] 🧬 Data Modeling – Relationships established among tables to enable accurate, cross-filtered reporting
-e] 📁 File Format – .pbix used for development and .png for dashboard previews/screenshots
+* 📊 Power BI Desktop – Main data visualization platform used for report creation
+
+* 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data
+
+* 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic
+
+* 🧬 Data Modeling – Relationships established among tables to enable accurate, cross-filtered reporting
+
+* 📁 File Format – .pbix used for development and .png for dashboard previews/screenshots
 
 7. 🔗 Data Source
    
@@ -23,12 +27,34 @@ The data was sourced from YouTube tutorials, but all visualizations, calculation
 
 5.✨ Key Features & Highlights
 
-📈 Dynamic sales trend analysis across different months and years
-🗂️ Category-wise and product-level breakdown of revenue and quantity sold
-🌍 Geographic sales distribution with map visualizations
-🧮 Top-performing products and regions based on total sales
-🕵️ Interactive slicers and filters for user-driven insights
-📊 Use of KPIs and cards to show key metrics at a glance (Total Revenue, Quantity, Profit, etc.)
+* 📅 Time-Based Sales Analysis
+  Analyze sales trends over different months and years with interactive visuals and line graphs, helping identify peak seasons and underperforming periods.
+
+* 💰 Key Metrics at a Glance
+  Display of core KPIs such as Total Sales, Total Profit, Quantity Sold, and Order Count using dynamic cards for quick performance tracking.
+
+* 📦 Product-Level Insights
+  Drill down into individual product performance by revenue, quantity, and profit. Visuals like stacked bar charts and matrices help compare products across categories.
+
+* 🧠 Power Tips Section
+  A dedicated page with actionable insights, best-selling products, and smart observations driven by calculated DAX measures (e.g., profit margin, average revenue per order).
+
+* 🌍 Region-Based Sales Visualization
+  Use of map visuals to display sales distribution across different regions or countries, identifying where the majority of sales come from.
+
+* 📊 Category-Wise Breakdown
+  Group-level analysis of product categories showing their contribution to overall revenue, profit, and sales volume using doughnut and clustered bar charts.
+
+* 🔍 Interactive Filtering and Slicers
+  Fully interactive slicers to filter by Year, Category, Product, or Region, allowing users to conduct on-demand ad hoc analysis.
+
+* 📈 Dynamic Visual Syncing Across Pages
+  Consistent filtering across multiple views/pages using synchronized slicers, improving usability and continuity of insights across the dashboard.
+
+* 📂 Well-Structured Report Pages
+  Four distinct views (Overview, Product View, PowerTip, and Product Breakdown) to organize insights logically and guide users through the story the data tells.
+
+
 
 6.Screenshot
 1.Overview
